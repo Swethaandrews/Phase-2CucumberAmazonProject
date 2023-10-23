@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"57b3b229-1d0c-4df9-8613-cb2e86142d96","feature":"Test the Amazon page on chrome Browser","scenario":"Test the mobile page","start":1698066653683,"group":1,"content":"","tags":"@all,","end":1698066656342,"className":"passed"},{"id":"61a1e9db-1164-4cb3-987a-e6217240d667","feature":"Test the Amazon page on chrome Browser","scenario":"Test the sigin with Email-id","start":1698066646456,"group":1,"content":"","tags":"@all,@sigin,","end":1698066653668,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
